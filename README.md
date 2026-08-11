@@ -16,10 +16,10 @@ I'm currently strengthening my skills in **SQL, Python, databases, ETL, data pip
 Python • SQL • Java
 
 **Data & Analytics:**  
-Pandas • NumPy • Power BI • Excel • GA4
+Pandas • NumPy • Power BI • Excel • PySpark
 
 **Databases:**  
-MySQL • SQL
+MySQL • SQL • Postgresql
 
 **Data Engineering:**  
 ETL/ELT • Data Cleaning • Data Transformation • Data Pipelines • Data Warehousing
@@ -27,7 +27,7 @@ ETL/ELT • Data Cleaning • Data Transformation • Data Pipelines • Data Wa
 **Tools:**  
 Git • GitHub • Jupyter • VS Code
 
-**AI:**  
+**AI (basic):**  
 Generative AI • AI/LLM Fundamentals • Agentic AI
 
 ---
